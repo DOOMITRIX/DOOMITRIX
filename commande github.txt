@@ -1,0 +1,16 @@
+----nouveau repository----
+
+git init
+git add (fichier) ou '.' pour tous séléctionner
+git commit -m "message des changements"
+git branch -M main (créer une branche avec comme nom main [non obligatoire par defaut master])
+git remote add orgin (lien du repository)
+git push -u origin (nom de la branche)
+
+----mettre a jour les fichiers dans le repository----
+git add .
+git commit -m "message sur les changements"
+git push origin (nom de la branche)
+
+----retrouver les dernieres modifs----
+git pull origin (nom de la branche)

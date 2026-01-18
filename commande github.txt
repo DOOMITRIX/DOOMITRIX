@@ -16,4 +16,4 @@ git push origin (nom de la branche)
 git pull origin (nom de la branche)
 
 ----retrouver les dernieres modifs depuis une nouvelle appareil----
-git clone <URL> [nom de la branche]
+git clone <URL> [Nom du dossier qui va être créer] (pas obligatoire par défaut le nom du repository)

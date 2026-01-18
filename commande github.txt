@@ -14,3 +14,6 @@ git push origin (nom de la branche)
 
 ----retrouver les dernieres modifs----
 git pull origin (nom de la branche)
+
+----retrouver les dernieres modifs depuis une nouvelle appareil----
+git clone <URL> [nom_du_dossier]
